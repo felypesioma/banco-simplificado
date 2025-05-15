@@ -1,4 +1,5 @@
-# Banco simplificado
+# Banco simplificado (em desenvolvimento)
+
 
 ## O que é?
 
